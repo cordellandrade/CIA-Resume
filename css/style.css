@@ -1,0 +1,28 @@
+body {
+    padding: 30px;
+    background-image: url(../img/png.jpg.jpg);
+}
+
+img {
+    float: center;
+    padding-left: 750px;
+}
+
+#header {
+    float: right;
+    padding: 50px;
+    font-family: 'Russo One', sans-serif;
+}
+
+#tech-skills {
+    padding-top: 300px;
+}
+
+li {
+    list-style: none;
+    font-family: 'Indie Flower', cursive;
+}
+
+h4 {
+    font-family: 'Russo One', sans-serif;
+}
